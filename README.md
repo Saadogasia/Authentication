@@ -5,12 +5,8 @@ This React Native app provides user authentication with Firebase. Users can log 
 
 ## Screenshots
 
-### Login Screen
 
-![Login Screen](login.jpeg)
+![ Screen](Screen.png)
 
-### Home Screen
-
-![Home Screen](home.jpeg)
 
 
